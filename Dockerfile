@@ -1,5 +1,4 @@
 FROM node:8.11-alpine
-MAINTAINER Nobuyuki Matsui <nobuyuki.matsui@gmail.com>
 
 RUN apk --no-cache add tini
 ENTRYPOINT ["/sbin/tini", "--"]
