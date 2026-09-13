@@ -84,15 +84,16 @@ Permiten conectar directamente una carpeta o archivo del equipo anfitrión con u
 Almacena los datos temporalmente en la memoria del sistema. La información no permanece después de que el contenedor deja de ejecutarse.
 
 # Evidencias
-![1](evidencias/imagen1.png)
+![1](evidencias/image1.png)
 
-![2](evidencias/imagen2.png)
+![2](evidencias/image2.png)
 
-![3](evidencias/imagen3.png)
+![3](evidencias/image3.png)
 
-![4](evidencias/imagen5.png)
+![4](evidencias/image5.png)
 
-![5](evidencias/imagen6.png)
+![5](evidencias/image6.png)
+
 # Creditos
 - Robert Visitación Junior Villar Vigo
 
